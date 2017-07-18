@@ -9,5 +9,5 @@ s is the list of people who have contributed to this project,
 # Names should be added to this file as:
 # Name <email address>
 
-Panda Wong <532694287@qq.com>
+Panda Wong <viennaong@gmail.com>
 Baran Wang <me@baran.wang>
